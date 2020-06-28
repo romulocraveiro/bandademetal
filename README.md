@@ -4,13 +4,13 @@ Exercício da disciplina Fundamentos de Web Design do curso Técnico em Desenvol
 
 This is an exercise for the subject "Fundamentals of Web Design" in the Systems Development Techinical Course at SENAI CIMATEC, Salvador-Bahia, Brazil. Professor: Sheila Tirony. 
 
-**Objetivo** / **Aim**
+**Objetivo** / **Aim**:
 Prática de HTML com formulário. / To practice HTML with a form.
 
-**Justificativa** / **Justification**
+**Justificativa** / **Justification**:
 Atividade pontuada. / Task for grading.
 
-**Tecnologias** / **Technologies**
+**Tecnologias** / **Technologies**:
 HTML.
 
 **Autor** / **Author**
