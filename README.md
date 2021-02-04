@@ -2,7 +2,12 @@
 
 Exercício da disciplina Fundamentos de Web Design do curso Técnico em Desenvolvimento de Sistemas SENAI CIMATEC professora Sheila Tirony. Atividades 1 e 2.
 
+Foi meu primeiro exercício na disciplina, apenas manipulando algumas linhas de código e entendendo suas funções
+de modo preliminar, tendo como referência W3schools.com.
+
 This is an exercise for the subject "Fundamentals of Web Design" in the Systems Development Techinical Course at SENAI CIMATEC, Salvador-Bahia, Brazil. Professor: Sheila Tirony. 
+
+It was my first exercise for this discipline, simply manipulating some lines of code and preliminarily understanding their functions, having w3schools.com site as a reference.
 
 **Objetivo** / **Aim**:
 Prática de HTML com formulário. / To practice HTML with a form.
